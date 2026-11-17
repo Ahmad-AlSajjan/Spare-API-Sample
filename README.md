@@ -44,3 +44,6 @@ Usage:
 | `status` | Shows the health of the service |
 | `logs` | Stows the 50 newest log entries |
 | `smoke` | Runs basic API checks |
+
+# AI Disclaimer
+AI was used to assist with providing clarifications regarding aspects I am unfamiliar with (such as GitHub Actions) and sanity-checking the container-related files and scripts. I am nominally not an application developer, but all configurations and design decisions are my own.
