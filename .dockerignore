@@ -1,0 +1,9 @@
+# Build files that shouldn't be included
+node_modules/
+.env
+*.log
+.DS_Store
+README.md
+Dockerfile
+docker-compose.yml
+scripts
