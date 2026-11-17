@@ -33,7 +33,9 @@ When using Podman as the container runtime, it is important to note that the API
 Also provided is a bash script that allows operators to manage the stack without having to manually input the needed commands. The script is also tailored to function with both Podman and Docker, and will prioritize Podman if both runtimes are detected due to its more secure nature.
 
 Usage:
+```bash
 /scripts/ops.sh [FUNCTION]
+```
 
 | FUNCTION | What it does |
 |---------|--------------|
