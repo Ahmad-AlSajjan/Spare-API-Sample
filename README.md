@@ -46,4 +46,4 @@ Usage:
 | `smoke` | Runs basic API checks |
 
 # AI Disclaimer
-AI was used to assist with providing clarifications regarding aspects I am unfamiliar with (such as GitHub Actions) and sanity-checking the container-related files and scripts. I am nominally not an application developer, but all configurations and design decisions are my own.
+AI was used to assist with providing templates and clarifications regarding aspects I am unfamiliar with (such as GitHub Actions) that I then adjusted and double-checked. I am nominally not an application developer, but all configurations and design decisions are my own.
