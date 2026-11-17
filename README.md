@@ -7,10 +7,10 @@ The repository consists of the resources needed to create a containerized API ap
 # Quick-start
 You will need a container runtime (Docker/Podman) and its relevant compose component (docker-compose or podman-compose)
 ```bash
-# 2. Create your local environment file (use the provided sample as a foundation if needed)
+# Create your local environment file (use the provided sample as a foundation if needed)
 cp .env.example .env
 
-# 3. Build and start the API and database
+# Build and start the API and database
 ./scripts/ops.sh up
 ```
 
